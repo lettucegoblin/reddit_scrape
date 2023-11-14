@@ -243,7 +243,15 @@ def number_of_posts_we_have(subreddit_name):
             top_posts_json = json.load(file)
             top_posts = top_posts_json
             print(f"Found {len(top_posts)} posts in {subreddit_name}_top_posts.json")
-            return len(top_posts)
+            #return len(top_posts)
+            # check if we have all the posts by checking if each post has a folder
+            count = 0
+            for post_id in top_posts:
+                if(os.path.exists(f'{save_dir}/{subreddit_name}/{post_id}_top_comments.json')):
+                    count += 1
+            print(f"Found {count} posts in {subreddit_name} folder")
+            return count
+        
     except FileNotFoundError:
         return 0
     return 0
@@ -285,7 +293,13 @@ def scrape_reddit_data(post_limit=100, comment_limit=100):
                     handle_rate_limit()
                 else:
                     print(f"An error occurred while scraping {subreddit_name}: {str(e)}")
-                    break
+                    # save error to file append to error file
+                    with open(f'{save_dir}/errors.txt', 'a') as file:
+                        file.write(f"An error occurred while scraping {subreddit_name}: {str(e)}\n")
+                    #sleep for 5 minutes
+                    time.sleep(5 * 60)
+                    handle_rate_limit()
+                    #break
     return data
 
 
