@@ -1,0 +1,49 @@
+{
+    "f9vh2xm": {
+        "id": "f9vh2xm",
+        "parent_id": "t3_e75f07",
+        "link_id": "t3_e75f07",
+        "is_submitter": true,
+        "permalink": "/r/announcements/comments/e75f07/suspected_campaign_from_russia_on_reddit/f9vh2xm/",
+        "created_utc": 1575670346.0,
+        "body": "We are taking questions over at the original post",
+        "body_html": "<div class=\"md\"><p>We are taking questions over at the original post</p>\n</div>",
+        "distinguished": "admin",
+        "subreddit_id": "t5_2r0ij",
+        "score": 4108,
+        "stickied": false,
+        "author": {
+            "author_name": "worstnerd",
+            "is_suspended": false,
+            "author_fullname": "t2_qromv",
+            "author_id": "qromv",
+            "author_created_utc": 1443362664.0,
+            "is_mod": true,
+            "is_gold": false,
+            "is_employee": true,
+            "icon_img": "https://styles.redditmedia.com/t5_7imox/styles/profileIcon_snoo55756cfd-8bf6-4a34-aafa-1d639198298c-headshot.png?width=256&height=256&crop=256:256,smart&s=a75727c2ddf23030560daf0ec368e4e09bb55b05",
+            "link_karma": 62214,
+            "awarder_karma": 4287,
+            "comment_karma": 14646,
+            "total_karma": 92399
+        }
+    },
+    "f9vh264": {
+        "id": "f9vh264",
+        "parent_id": "t3_e75f07",
+        "link_id": "t3_e75f07",
+        "is_submitter": false,
+        "permalink": "/r/announcements/comments/e75f07/suspected_campaign_from_russia_on_reddit/f9vh264/",
+        "created_utc": 1575670332.0,
+        "body": "[removed]",
+        "body_html": "<div class=\"md\"><p>[removed]</p>\n</div>",
+        "distinguished": null,
+        "subreddit_id": "t5_2r0ij",
+        "score": 3235,
+        "stickied": false,
+        "author": {
+            "author_name": "[deleted]",
+            "is_suspended": true
+        }
+    }
+}
