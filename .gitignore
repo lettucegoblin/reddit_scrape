@@ -1,2 +1,4 @@
 config.json
 .vscode
+.conda
+redvid_temp

@@ -81,14 +81,14 @@ def scrape_top_subreddits():
         time.sleep(3)
     return top_subreddits
 
-def get_top_comments(subreddit_name, submission):
+def get_top_comments(subreddit_name, submission, limit=100):
     # scrape top comments, or load from file if it exists
     try:
         os.makedirs(f'{save_dir}/{subreddit_name}', exist_ok=True)
         with open(f'{save_dir}/{subreddit_name}/{submission.id}_top_comments.json', 'r') as file:
             top_comments = json.load(file)
     except FileNotFoundError:
-        top_comments = scrape_top_comments(submission)
+        top_comments = scrape_top_comments(submission, limit)
         # cache top_comments to file
         with open(f'{save_dir}/{subreddit_name}/{submission.id}_top_comments.json', 'w') as file:
             json.dump(top_comments, file, indent=4)
@@ -120,7 +120,7 @@ def get_author_info(author):
 
     return author_data
 
-def scrape_top_comments(submission):
+def scrape_top_comments(submission, limit=100):
     top_comments = {}
     submission.comments.replace_more(limit=1)
     # top 10 top level comments
@@ -280,7 +280,7 @@ def scrape_reddit_data(post_limit=100, comment_limit=100):
                 # scrape top comments for each post
                 for post_id in top_posts:
                     submission = reddit.submission(id=post_id)
-                    top_posts[post_id]['top_comments'] = get_top_comments(subreddit_name, submission)
+                    top_posts[post_id]['top_comments'] = get_top_comments(subreddit_name, submission, comment_limit)
                 data[subreddit_name] = top_posts
                 print(f"Scraped {len(top_posts)} posts from {subreddit_name}.")
                 print(f"Total posts scraped: {len(data)}")
@@ -309,6 +309,6 @@ def save_to_json(data):
         json.dump(data, file, indent=4)
 
 if __name__ == '__main__':
-    reddit_data = scrape_reddit_data(10, 10)
+    reddit_data = scrape_reddit_data(100, 10)
     save_to_json(reddit_data)
     print("Data has been saved to reddit_data.json")
