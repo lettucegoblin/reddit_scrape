@@ -2,3 +2,5 @@ config.json
 .vscode
 .conda
 redvid_temp
+results_modified
+llama-2-*
