@@ -25,7 +25,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.86,
         "url": "https://www.reddit.com/r/announcements/comments/7jsyqt/the_fccs_vote_was_predictably_frustrating_but/",
-        "classification": "article"
+        "classification": "text"
     },
     "8jzyb6": {
         "author_fullname": "t2_15za7q",
@@ -53,7 +53,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.85,
         "url": "https://www.reddit.com/r/announcements/comments/8jzyb6/update_we_won_the_net_neutrality_vote_in_the/",
-        "classification": "article"
+        "classification": "text"
     },
     "80jsi9": {
         "author_fullname": "t2_15za7q",
@@ -81,7 +81,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.81,
         "url": "https://www.reddit.com/r/announcements/comments/80jsi9/upvote_the_downvote_tell_congress_to_use_the_cra/",
-        "classification": "article"
+        "classification": "text"
     },
     "3cucye": {
         "author_fullname": "t2_i6i4",
@@ -109,7 +109,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.79,
         "url": "https://www.reddit.com/r/announcements/comments/3cucye/an_old_team_at_reddit/",
-        "classification": "article"
+        "classification": "text"
     },
     "8i3382": {
         "author_fullname": "t2_15za7q",
@@ -137,7 +137,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.79,
         "url": "https://www.reddit.com/r/announcements/comments/8i3382/orangered_alert_the_senate_is_about_to_vote_on/",
-        "classification": "article"
+        "classification": "text"
     },
     "mcisdf": {
         "author_fullname": "t2_1w72",
@@ -165,7 +165,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.63,
         "url": "https://www.reddit.com/r/announcements/comments/mcisdf/an_update_on_the_recent_issues_surrounding_a/",
-        "classification": "article"
+        "classification": "text"
     },
     "hrrh23": {
         "author_fullname": "t2_o30pnrf",
@@ -249,7 +249,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.85,
         "url": "https://www.reddit.com/r/announcements/comments/93qnm5/we_had_a_security_incident_heres_what_you_need_to/",
-        "classification": "article"
+        "classification": "text"
     },
     "fo7p5b": {
         "author_fullname": "t2_o30pnrf",
@@ -277,6 +277,6 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.77,
         "url": "https://www.reddit.com/r/announcements/comments/fo7p5b/introducing_reddit_polls_an_allnew_post_type/",
-        "classification": "article"
+        "classification": "text"
     }
 }

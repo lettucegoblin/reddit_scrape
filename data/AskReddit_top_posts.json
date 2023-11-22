@@ -25,7 +25,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.91,
         "url": "https://www.reddit.com/r/AskReddit/comments/ablzuq/people_who_havent_pooped_in_2019_yet_why_are_you/",
-        "classification": "article"
+        "classification": "text"
     },
     "l7530r": {
         "author_fullname": "t2_4df08om5",
@@ -53,7 +53,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.87,
         "url": "https://www.reddit.com/r/AskReddit/comments/l7530r/how_would_you_feel_about_reddit_adding_3_nsfw/",
-        "classification": "article"
+        "classification": "text"
     },
     "f08dxb": {
         "author_fullname": "t2_bjy55",
@@ -81,7 +81,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.9,
         "url": "https://www.reddit.com/r/AskReddit/comments/f08dxb/would_you_watch_a_show_where_a_billionaire_ceo/",
-        "classification": "article"
+        "classification": "text"
     },
     "iwedc5": {
         "author_fullname": "t2_73fr6ksb",
@@ -109,7 +109,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.92,
         "url": "https://www.reddit.com/r/AskReddit/comments/iwedc5/what_if_god_came_down_one_day_and_said_its/",
-        "classification": "article"
+        "classification": "text"
     },
     "draola": {
         "author_fullname": "t2_14ibev",
@@ -137,7 +137,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.9,
         "url": "https://www.reddit.com/r/AskReddit/comments/draola/how_would_you_feel_about_a_feature_where_if/",
-        "classification": "article"
+        "classification": "text"
     },
     "kr8op6": {
         "author_fullname": "t2_9brm3pdt",
@@ -165,7 +165,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.79,
         "url": "https://www.reddit.com/r/AskReddit/comments/kr8op6/how_would_you_feel_about_a_if_you_accidentally/",
-        "classification": "article"
+        "classification": "text"
     },
     "9whgf4": {
         "author_fullname": "t2_92k5o",
@@ -193,7 +193,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.87,
         "url": "https://www.reddit.com/r/AskReddit/comments/9whgf4/stan_lee_has_passed_away_at_95_years_old/",
-        "classification": "article"
+        "classification": "text"
     },
     "9gx68l": {
         "author_fullname": "t2_5i0ry",
@@ -221,7 +221,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.85,
         "url": "https://www.reddit.com/r/AskReddit/comments/9gx68l/reddit_how_would_you_feel_about_a_law_that_bans/",
-        "classification": "article"
+        "classification": "text"
     },
     "himsju": {
         "author_fullname": "t2_1nggbav6",
@@ -249,7 +249,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
         "url": "https://www.reddit.com/r/AskReddit/comments/himsju/bill_gates_said_i_will_always_choose_a_lazy/",
-        "classification": "article"
+        "classification": "text"
     },
     "kka536": {
         "author_fullname": "t2_8k68mgpv",
@@ -277,6 +277,6 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.89,
         "url": "https://www.reddit.com/r/AskReddit/comments/kka536/what_if_earth_is_like_one_of_those_uncontacted/",
-        "classification": "article"
+        "classification": "text"
     }
 }

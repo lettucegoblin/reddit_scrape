@@ -25,7 +25,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
         "url": "https://www.reddit.com/r/LifeProTips/comments/f6jt5e/lpt_keep_your_mouth_shut_and_dont_volunteer/",
-        "classification": "article"
+        "classification": "text"
     },
     "j2mm1b": {
         "author_fullname": "t2_6an2ynv",
@@ -53,7 +53,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
         "url": "https://www.reddit.com/r/LifeProTips/comments/j2mm1b/lpt_when_you_sign_up_for_anything_online_put_the/",
-        "classification": "article"
+        "classification": "text"
     },
     "fpfwra": {
         "author_fullname": "t2_lkl9l",
@@ -81,7 +81,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
         "url": "https://www.reddit.com/r/LifeProTips/comments/fpfwra/lpt_if_you_want_a_smarter_kid_teach_your_child_to/",
-        "classification": "article"
+        "classification": "text"
     },
     "lq1jn7": {
         "author_fullname": "t2_b2s70",
@@ -109,7 +109,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.91,
         "url": "https://www.reddit.com/r/LifeProTips/comments/lq1jn7/lpt_texans_you_are_about_to_experience_the_worst/",
-        "classification": "article"
+        "classification": "text"
     },
     "kzkotx": {
         "author_fullname": "t2_69oxt",
@@ -137,7 +137,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
         "url": "https://www.reddit.com/r/LifeProTips/comments/kzkotx/lpt_always_tell_a_child_who_is_wearing_a_helmet/",
-        "classification": "article"
+        "classification": "text"
     },
     "o26lzm": {
         "author_fullname": "t2_blfam224",
@@ -165,7 +165,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
         "url": "https://www.reddit.com/r/LifeProTips/comments/o26lzm/lpt_dont_be_fooled_by_the_working_for_a_dream/",
-        "classification": "article"
+        "classification": "text"
     },
     "lkt2w8": {
         "author_fullname": "t2_74crqbpt",
@@ -193,7 +193,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
         "url": "https://www.reddit.com/r/LifeProTips/comments/lkt2w8/lpt_your_company_didnt_know_you_existed_before/",
-        "classification": "article"
+        "classification": "text"
     },
     "nvfnp4": {
         "author_fullname": "t2_6982d42g",
@@ -221,7 +221,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
         "url": "https://www.reddit.com/r/LifeProTips/comments/nvfnp4/lpt_when_you_dont_have_all_the_facts_try_to_give/",
-        "classification": "article"
+        "classification": "text"
     },
     "gfcq4g": {
         "author_fullname": "t2_39nmvdc3",
@@ -249,7 +249,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
         "url": "https://www.reddit.com/r/LifeProTips/comments/gfcq4g/lpt_just_because_you_did_something_wrong_in_the/",
-        "classification": "article"
+        "classification": "text"
     },
     "hqmot1": {
         "author_fullname": "t2_qixjn",
@@ -277,6 +277,6 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.91,
         "url": "https://www.reddit.com/r/LifeProTips/comments/hqmot1/lpt_anytime_you_think_about_contacting_an_ex_or/",
-        "classification": "article"
+        "classification": "text"
     }
 }

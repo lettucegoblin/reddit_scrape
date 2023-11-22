@@ -25,7 +25,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.68,
         "url": "https://www.reddit.com/r/IAmA/comments/z1c9z/i_am_barack_obama_president_of_the_united_states/",
-        "classification": "article"
+        "classification": "text"
     },
     "7eojwf": {
         "author_fullname": "t2_msrvg",
@@ -81,7 +81,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.81,
         "url": "https://www.reddit.com/r/IAmA/comments/3c0iw2/ama_request_victoria_exama_mod/",
-        "classification": "article"
+        "classification": "text"
     },
     "7jtes4": {
         "author_fullname": "t2_15yu6q",
@@ -109,7 +109,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.79,
         "url": "https://www.reddit.com/r/IAmA/comments/7jtes4/fcc_just_voted_to_kill_net_neutrality_now_we_will/",
-        "classification": "article"
+        "classification": "text"
     },
     "57dw9a": {
         "author_fullname": "t2_pd9yl",
@@ -137,7 +137,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.87,
         "url": "https://www.reddit.com/r/IAmA/comments/57dw9a/im_american_citizen_undecided_voter_loving/",
-        "classification": "article"
+        "classification": "text"
     },
     "aunv58": {
         "author_fullname": "t2_91u3j",
@@ -165,7 +165,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.8,
         "url": "https://www.reddit.com/r/IAmA/comments/aunv58/im_bill_gates_cochair_of_the_bill_melinda_gates/",
-        "classification": "article"
+        "classification": "text"
     },
     "80ow6w": {
         "author_fullname": "t2_91u3j",
@@ -193,7 +193,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.85,
         "url": "https://www.reddit.com/r/IAmA/comments/80ow6w/im_bill_gates_cochair_of_the_bill_melinda_gates/",
-        "classification": "article"
+        "classification": "text"
     },
     "5fjszg": {
         "author_fullname": "t2_1303zv",
@@ -221,7 +221,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.9,
         "url": "https://www.reddit.com/r/IAmA/comments/5fjszg/i_am_leah_remini_ask_me_anything_about_scientology/",
-        "classification": "article"
+        "classification": "text"
     },
     "5whpqs": {
         "author_fullname": "t2_91u3j",
@@ -249,7 +249,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.85,
         "url": "https://www.reddit.com/r/IAmA/comments/5whpqs/im_bill_gates_cochair_of_the_bill_melinda_gates/",
-        "classification": "article"
+        "classification": "text"
     },
     "9tm9oo": {
         "author_fullname": "t2_n751h",
@@ -277,6 +277,6 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.7,
         "url": "https://www.reddit.com/r/IAmA/comments/9tm9oo/i_am_senator_bernie_sanders_ask_me_anything/",
-        "classification": "article"
+        "classification": "text"
     }
 }

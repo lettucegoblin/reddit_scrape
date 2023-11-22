@@ -25,7 +25,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
         "url": "https://www.reddit.com/r/StarWarsBattlefront/comments/7cff0b/seriously_i_paid_80_to_have_vader_locked/",
-        "classification": "article"
+        "classification": "text"
     },
     "7cl53w": {
         "author_fullname": "t2_jxfr244",
@@ -53,7 +53,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
         "url": "https://www.reddit.com/r/StarWarsBattlefront/comments/7cl53w/eas_dev_response_now_has_enough_downvotes_to_play/",
-        "classification": "article"
+        "classification": "text"
     },
     "7d70fg": {
         "author_fullname": "t2_yyjgw",
@@ -165,7 +165,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.71,
         "url": "https://www.reddit.com/r/StarWarsBattlefront/comments/7d4qft/star_wars_battlefront_ii_dice_developer_ama/",
-        "classification": "article"
+        "classification": "text"
     },
     "f17tkf": {
         "author_fullname": "t2_2bnpg2d0",
@@ -277,6 +277,6 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.87,
         "url": "https://www.reddit.com/r/StarWarsBattlefront/comments/7dh95x/the_you_can_no_longer_purchase_crystals_megathread/",
-        "classification": "article"
+        "classification": "text"
     }
 }

@@ -25,7 +25,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.92,
         "url": "https://www.reddit.com/r/science/comments/84aiy6/physicist_stephen_hawking_dies_aged_76/",
-        "classification": "article"
+        "classification": "text"
     },
     "bblu6v": {
         "author_fullname": "t2_skqrq",
@@ -109,7 +109,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.81,
         "url": "https://www.reddit.com/r/science/comments/7e1jo1/raising_the_taxes_of_graduate_students_by_as_much/",
-        "classification": "article"
+        "classification": "text"
     },
     "yql2u5": {
         "author_fullname": "t2_2uwit82z",

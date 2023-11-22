@@ -25,7 +25,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
         "url": "https://www.reddit.com/r/tifu/comments/x35iu6/tifu_my_20f_girlfriend_of_two_years_told_me_the/",
-        "classification": "article"
+        "classification": "text"
     },
     "a99fw9": {
         "author_fullname": "t2_j4fj9",
@@ -53,7 +53,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
         "url": "https://www.reddit.com/r/tifu/comments/a99fw9/tifu_by_buying_everyone_an_ancestrydna_kit_and/",
-        "classification": "article"
+        "classification": "text"
     },
     "ak2k64": {
         "author_fullname": "t2_3jjsa",
@@ -81,7 +81,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
         "url": "https://www.reddit.com/r/tifu/comments/ak2k64/tifu_by_living_in_a_dark_bedroom_for_6_years/",
-        "classification": "article"
+        "classification": "text"
     },
     "bbgmzp": {
         "author_fullname": "t2_xgtog",
@@ -109,7 +109,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
         "url": "https://www.reddit.com/r/tifu/comments/bbgmzp/tifu_by_spending_the_last_year_on_reddit_talking/",
-        "classification": "article"
+        "classification": "text"
     },
     "i3xnlq": {
         "author_fullname": "t2_3e3evg7q",
@@ -137,7 +137,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.9,
         "url": "https://www.reddit.com/r/tifu/comments/i3xnlq/tifu_by_owning_a_golden_retriever_while_being/",
-        "classification": "article"
+        "classification": "text"
     },
     "bpr2iy": {
         "author_fullname": "t2_2848qh05",
@@ -165,7 +165,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.92,
         "url": "https://www.reddit.com/r/tifu/comments/bpr2iy/tifu_i_have_officially_branded_myself_as_the/",
-        "classification": "article"
+        "classification": "text"
     },
     "s3f513": {
         "author_fullname": "t2_165lzk",
@@ -193,7 +193,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.91,
         "url": "https://www.reddit.com/r/tifu/comments/s3f513/tifu_by_lying_to_my_wife_for_13_years/",
-        "classification": "article"
+        "classification": "text"
     },
     "6rr6ay": {
         "author_fullname": "t2_9gp6ege",
@@ -221,7 +221,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
         "url": "https://www.reddit.com/r/tifu/comments/6rr6ay/tifu_by_cumming_into_a_coconut/",
-        "classification": "article"
+        "classification": "text"
     },
     "dj95o8": {
         "author_fullname": "t2_o8r5j",
@@ -249,7 +249,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
         "url": "https://www.reddit.com/r/tifu/comments/dj95o8/tifu_by_wearing_a_shawl_which_ruined_my/",
-        "classification": "article"
+        "classification": "text"
     },
     "hjw6en": {
         "author_fullname": "t2_4md27d48",
@@ -277,6 +277,6 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.92,
         "url": "https://www.reddit.com/r/tifu/comments/hjw6en/tifu_by_having_the_username_soundman1488_for_15/",
-        "classification": "article"
+        "classification": "text"
     }
 }

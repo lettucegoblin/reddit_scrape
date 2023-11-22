@@ -25,7 +25,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
         "url": "https://www.reddit.com/r/Showerthoughts/comments/aonp75/whoever_created_the_tradition_of_not_seeing_the/",
-        "classification": "article"
+        "classification": "text"
     },
     "ek33p5": {
         "author_fullname": "t2_9s2ie",
@@ -53,7 +53,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
         "url": "https://www.reddit.com/r/Showerthoughts/comments/ek33p5/we_laugh_at_dogs_getting_excited_when_they_hear_a/",
-        "classification": "article"
+        "classification": "text"
     },
     "awd10u": {
         "author_fullname": "t2_7v76e",
@@ -81,7 +81,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
         "url": "https://www.reddit.com/r/Showerthoughts/comments/awd10u/when_youre_a_kid_you_dont_realize_youre_also/",
-        "classification": "article"
+        "classification": "text"
     },
     "com04g": {
         "author_fullname": "t2_12zy19zo",
@@ -109,7 +109,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
         "url": "https://www.reddit.com/r/Showerthoughts/comments/com04g/dads_probably_bond_with_dogs_so_much_because_in/",
-        "classification": "article"
+        "classification": "text"
     },
     "g4d0ij": {
         "author_fullname": "t2_4jv9uev0",
@@ -137,7 +137,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
         "url": "https://www.reddit.com/r/Showerthoughts/comments/g4d0ij/being_able_to_tolerate_the_sound_of_your_own/",
-        "classification": "article"
+        "classification": "text"
     },
     "ah48kq": {
         "author_fullname": "t2_89n5i",
@@ -165,7 +165,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.92,
         "url": "https://www.reddit.com/r/Showerthoughts/comments/ah48kq/girls_dont_compliment_guys_because_theyre_likely/",
-        "classification": "article"
+        "classification": "text"
     },
     "enw8rz": {
         "author_fullname": "[deleted]",
@@ -193,7 +193,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
         "url": "https://www.reddit.com/r/Showerthoughts/comments/enw8rz/if_elevators_hadnt_been_invented_all_the_ceos_and/",
-        "classification": "article"
+        "classification": "text"
     },
     "7d1kop": {
         "author_fullname": "t2_hn24y",
@@ -221,7 +221,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.92,
         "url": "https://www.reddit.com/r/Showerthoughts/comments/7d1kop/if_ea_suffers_big_enough_losses_from_the_backlash/",
-        "classification": "article"
+        "classification": "text"
     },
     "a400tw": {
         "author_fullname": "[deleted]",
@@ -249,7 +249,7 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
         "url": "https://www.reddit.com/r/Showerthoughts/comments/a400tw/being_able_to_do_well_in_high_school_without/",
-        "classification": "article"
+        "classification": "text"
     },
     "e0omqn": {
         "author_fullname": "t2_141nah",
@@ -277,6 +277,6 @@
         "total_awards_received": 0,
         "upvote_ratio": 0.91,
         "url": "https://www.reddit.com/r/Showerthoughts/comments/e0omqn/during_a_nuclear_explosion_there_is_a_certain/",
-        "classification": "article"
+        "classification": "text"
     }
 }
