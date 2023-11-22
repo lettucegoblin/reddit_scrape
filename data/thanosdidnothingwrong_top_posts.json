@@ -24,7 +24,8 @@
         "title": "Reddit, Thanos has a message for you...",
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
-        "url": "https://v.redd.it/tqiynxb26r811"
+        "url": "https://v.redd.it/tqiynxb26r811",
+        "classification": "video"
     },
     "8xia82": {
         "author_fullname": "t2_11vxpgcb",
@@ -51,7 +52,8 @@
         "title": "VOTE UPWARDS IF YOU'RE STILL UNBANNED TO FLEX ON SNAPPENED USERS",
         "total_awards_received": 0,
         "upvote_ratio": 0.88,
-        "url": "https://www.reddit.com/r/thanosdidnothingwrong/comments/8xia82/vote_upwards_if_youre_still_unbanned_to_flex_on/"
+        "url": "https://www.reddit.com/r/thanosdidnothingwrong/comments/8xia82/vote_upwards_if_youre_still_unbanned_to_flex_on/",
+        "classification": "article"
     },
     "8vehjn": {
         "author_fullname": "t2_13pzwr",
@@ -78,7 +80,8 @@
         "title": "I am working on ways to ban half of the sub, that is, if you guys really want to. Get this to 60K(aka half the sub) upvotes that way I know this is what you all want.",
         "total_awards_received": 0,
         "upvote_ratio": 0.91,
-        "url": "https://i.redd.it/hwr87k90lf711.jpg"
+        "url": "https://i.redd.it/hwr87k90lf711.jpg",
+        "classification": "image"
     },
     "8w36hi": {
         "author_fullname": "t2_1p8yya93",
@@ -105,7 +108,8 @@
         "title": "Let's keep things balanced before the ban, shall we?",
         "total_awards_received": 0,
         "upvote_ratio": 0.83,
-        "url": "https://i.redd.it/2ifhrd24py711.jpg"
+        "url": "https://i.redd.it/2ifhrd24py711.jpg",
+        "classification": "image"
     },
     "8xi3y2": {
         "author_fullname": "t2_13pzwr",
@@ -132,7 +136,8 @@
         "title": "*SNAP* THE BAN HAS BEGUN",
         "total_awards_received": 0,
         "upvote_ratio": 0.89,
-        "url": "https://www.reddit.com/r/thanosdidnothingwrong/comments/8xi3y2/snap_the_ban_has_begun/"
+        "url": "https://www.reddit.com/r/thanosdidnothingwrong/comments/8xi3y2/snap_the_ban_has_begun/",
+        "classification": "article"
     },
     "8vtlra": {
         "author_fullname": "t2_13pzwr",
@@ -159,7 +164,8 @@
         "title": "THE ADMINS GAVE ME PERMISSION TO BAN HALF OF THE SUB ON JULY 9",
         "total_awards_received": 0,
         "upvote_ratio": 0.89,
-        "url": "https://www.reddit.com/user/The-Jedi-Apprentice/comments/8vtlhi/hey_everyone_im_here_to_tell_you_all_some_good/"
+        "url": "https://www.reddit.com/user/The-Jedi-Apprentice/comments/8vtlhi/hey_everyone_im_here_to_tell_you_all_some_good/",
+        "classification": "article"
     },
     "djaers": {
         "author_fullname": "t2_3bfkr",
@@ -186,7 +192,8 @@
         "title": "Paul Rudd on the Ant-Man/Thanos meme",
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
-        "url": "http://i.imgur.com/WjRs2gF.jpeg"
+        "url": "http://i.imgur.com/WjRs2gF.jpeg",
+        "classification": "image"
     },
     "8xgpld": {
         "author_fullname": "t2_1kma8v7p",
@@ -213,7 +220,8 @@
         "title": "If this gets 65,356 points before the ban, this is getting out of hand.",
         "total_awards_received": 0,
         "upvote_ratio": 0.89,
-        "url": "https://i.redd.it/uvz9tuuzjz811.jpg"
+        "url": "https://i.redd.it/uvz9tuuzjz811.jpg",
+        "classification": "image"
     },
     "8xk3za": {
         "author_fullname": "t2_13pzwr",
@@ -240,7 +248,8 @@
         "title": "The ban is complete. The sub is now perfectly balanced, as all things should be. Our Saviour Thanos would be proud.",
         "total_awards_received": 0,
         "upvote_ratio": 0.85,
-        "url": "https://www.reddit.com/r/thanosdidnothingwrong/comments/8xk3za/the_ban_is_complete_the_sub_is_now_perfectly/"
+        "url": "https://www.reddit.com/r/thanosdidnothingwrong/comments/8xk3za/the_ban_is_complete_the_sub_is_now_perfectly/",
+        "classification": "article"
     },
     "a4fvx7": {
         "author_fullname": "t2_1305uo",
@@ -267,6 +276,7 @@
         "title": "I\u2019m gay",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://i.redd.it/xkigknnl35321.jpg"
+        "url": "https://i.redd.it/xkigknnl35321.jpg",
+        "classification": "image"
     }
 }

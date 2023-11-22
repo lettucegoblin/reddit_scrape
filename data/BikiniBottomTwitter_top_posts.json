@@ -24,7 +24,8 @@
         "title": "Wait... is that it?",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://i.imgur.com/7ek6ALM.jpg"
+        "url": "https://i.imgur.com/7ek6ALM.jpg",
+        "classification": "image"
     },
     "amz9ej": {
         "author_fullname": "t2_15g3j2",
@@ -51,7 +52,8 @@
         "title": "It's no Superbowl, but they played this at the Dallas Stars hockey game",
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
-        "url": "https://v.redd.it/oht3am4w4ie21"
+        "url": "https://v.redd.it/oht3am4w4ie21",
+        "classification": "video"
     },
     "hoqize": {
         "author_fullname": "t2_41jaebm4",
@@ -78,7 +80,8 @@
         "title": "Just wear a mask",
         "total_awards_received": 0,
         "upvote_ratio": 0.9,
-        "url": "https://i.redd.it/m89a1ffyo1a51.jpg"
+        "url": "https://i.redd.it/m89a1ffyo1a51.jpg",
+        "classification": "image"
     },
     "ft73pw": {
         "author_fullname": "t2_1zp0nfaf",
@@ -105,7 +108,8 @@
         "title": "Today\u2019s my 25th birthday, my husband is a pastry chef and made me a cake",
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
-        "url": "https://i.redd.it/dtw7sialf9q41.jpg"
+        "url": "https://i.redd.it/dtw7sialf9q41.jpg",
+        "classification": "image"
     },
     "bu36x2": {
         "author_fullname": "t2_2bs1p1ja",
@@ -132,7 +136,8 @@
         "title": "It really be like that",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "https://i.redd.it/j7oqp5dsqz031.jpg"
+        "url": "https://i.redd.it/j7oqp5dsqz031.jpg",
+        "classification": "image"
     },
     "uwvxkp": {
         "author_fullname": "t2_dv1k2248",
@@ -159,7 +164,8 @@
         "title": "aw man",
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
-        "url": "https://i.redd.it/ecwpqu4cjg191.gif"
+        "url": "https://i.redd.it/ecwpqu4cjg191.gif",
+        "classification": "image"
     },
     "a0x66t": {
         "author_fullname": "t2_ffrbp",
@@ -186,7 +192,8 @@
         "title": "Stephen Hillenburg creator of SpongeBob SquarePants has passed away.",
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
-        "url": "https://twitter.com/Nickelodeon/status/1067471668363313152?s=20"
+        "url": "https://twitter.com/Nickelodeon/status/1067471668363313152?s=20",
+        "classification": "article"
     },
     "ghm96v": {
         "author_fullname": "t2_23reyvs5",
@@ -213,7 +220,8 @@
         "title": "Not mine but it's pretty relatable",
         "total_awards_received": 0,
         "upvote_ratio": 0.87,
-        "url": "https://i.redd.it/61ga6ljrl4y41.jpg"
+        "url": "https://i.redd.it/61ga6ljrl4y41.jpg",
+        "classification": "image"
     },
     "amwdnz": {
         "author_fullname": "t2_171gmg",
@@ -240,7 +248,8 @@
         "title": "r/BikiniBottomTwitter when Sweet Victory wasn\u2019t performed",
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
-        "url": "https://i.redd.it/6alrehfqcge21.jpg"
+        "url": "https://i.redd.it/6alrehfqcge21.jpg",
+        "classification": "image"
     },
     "v4rl92": {
         "author_fullname": "t2_4wwhr8je",
@@ -267,6 +276,7 @@
         "title": "Freaky af",
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
-        "url": "https://i.redd.it/4hcgpjy7lm391.jpg"
+        "url": "https://i.redd.it/4hcgpjy7lm391.jpg",
+        "classification": "image"
     }
 }

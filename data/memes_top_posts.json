@@ -24,7 +24,8 @@
         "title": "A short story",
         "total_awards_received": 0,
         "upvote_ratio": 0.99,
-        "url": "https://i.redd.it/70zdjiilli351.jpg"
+        "url": "https://i.redd.it/70zdjiilli351.jpg",
+        "classification": "image"
     },
     "ig9u4z": {
         "author_fullname": "t2_3fw10ljl",
@@ -51,7 +52,8 @@
         "title": "She did her best ok?",
         "total_awards_received": 0,
         "upvote_ratio": 0.99,
-        "url": "https://i.redd.it/g4vm7de3q4j51.jpg"
+        "url": "https://i.redd.it/g4vm7de3q4j51.jpg",
+        "classification": "image"
     },
     "fj45ih": {
         "author_fullname": "t2_169bt8",
@@ -78,7 +80,8 @@
         "title": "This house ain\u2019t big enough for the six of us",
         "total_awards_received": 0,
         "upvote_ratio": 0.99,
-        "url": "https://i.redd.it/x4s2e60m7vm41.jpg"
+        "url": "https://i.redd.it/x4s2e60m7vm41.jpg",
+        "classification": "image"
     },
     "gi8l07": {
         "author_fullname": "t2_s5eq7",
@@ -105,7 +108,8 @@
         "title": "They what???",
         "total_awards_received": 0,
         "upvote_ratio": 0.99,
-        "url": "https://i.imgur.com/KpwIuSO.png"
+        "url": "https://i.imgur.com/KpwIuSO.png",
+        "classification": "image"
     },
     "jnbc9d": {
         "author_fullname": "t2_68zpy8rv",
@@ -132,7 +136,8 @@
         "title": "I feel privileged",
         "total_awards_received": 0,
         "upvote_ratio": 0.98,
-        "url": "https://i.redd.it/ttfhavjmd1x51.png"
+        "url": "https://i.redd.it/ttfhavjmd1x51.png",
+        "classification": "image"
     },
     "l7qap4": {
         "author_fullname": "t2_6io1v56y",
@@ -159,7 +164,8 @@
         "title": "This is my jam",
         "total_awards_received": 0,
         "upvote_ratio": 0.99,
-        "url": "https://i.redd.it/ycrjw204b9e61.gif"
+        "url": "https://i.redd.it/ycrjw204b9e61.gif",
+        "classification": "image"
     },
     "khiyao": {
         "author_fullname": "t2_7lmgjcet",
@@ -186,7 +192,8 @@
         "title": "uncanny resemblance",
         "total_awards_received": 0,
         "upvote_ratio": 0.99,
-        "url": "https://i.redd.it/cul580390k661.jpg"
+        "url": "https://i.redd.it/cul580390k661.jpg",
+        "classification": "image"
     },
     "hd6nhx": {
         "author_fullname": "t2_4k7u5tpr",
@@ -213,7 +220,8 @@
         "title": "Hmmmmmmmmmm",
         "total_awards_received": 0,
         "upvote_ratio": 0.99,
-        "url": "https://i.redd.it/c06hvlfni9651.jpg"
+        "url": "https://i.redd.it/c06hvlfni9651.jpg",
+        "classification": "image"
     },
     "fmf637": {
         "author_fullname": "t2_v1xzczv",
@@ -240,7 +248,8 @@
         "title": "We are doomed",
         "total_awards_received": 0,
         "upvote_ratio": 0.99,
-        "url": "https://i.redd.it/vmadxu8d51o41.jpg"
+        "url": "https://i.redd.it/vmadxu8d51o41.jpg",
+        "classification": "image"
     },
     "lkodmq": {
         "author_fullname": "t2_4p5kpq08",
@@ -267,6 +276,7 @@
         "title": "Wait I didn't mean it like that",
         "total_awards_received": 0,
         "upvote_ratio": 0.99,
-        "url": "https://i.redd.it/n4ildkpurph61.png"
+        "url": "https://i.redd.it/n4ildkpurph61.png",
+        "classification": "image"
     }
 }

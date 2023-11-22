@@ -24,7 +24,8 @@
         "title": "30,000 up-votes and this becomes a Lord of The Rings subreddit",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://i.imgur.com/q7sxmDo.jpg"
+        "url": "https://i.imgur.com/q7sxmDo.jpg",
+        "classification": "image"
     },
     "bp1c9m": {
         "author_fullname": "t2_ol63u",
@@ -51,7 +52,8 @@
         "title": "PETITION TO CANCEL EPISODE 6 AND REBOOT THE SHOW FROM THIS VERY INSTANCE WITH 2 FULL SEASONS AND RIGHT PROPER WRITERS",
         "total_awards_received": 0,
         "upvote_ratio": 0.9,
-        "url": "https://i.redd.it/y7i6xa0r0fy21.jpg"
+        "url": "https://i.redd.it/y7i6xa0r0fy21.jpg",
+        "classification": "image"
     },
     "brc7ml": {
         "author_fullname": "t2_eqjfc",
@@ -78,7 +80,8 @@
         "title": "Jon arriving at the Wall for his \"punishment\".",
         "total_awards_received": 0,
         "upvote_ratio": 0.98,
-        "url": "https://i.imgur.com/nhGXgku.gifv"
+        "url": "https://i.imgur.com/nhGXgku.gifv",
+        "classification": "image"
     },
     "bipsnh": {
         "author_fullname": "t2_ca7dbvf",
@@ -105,7 +108,8 @@
         "title": "After reading last night's post-episode discussion thread, I cobbled this together for y'all [GIF]",
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
-        "url": "https://gfycat.com/SentimentalGlamorousCollie"
+        "url": "https://gfycat.com/SentimentalGlamorousCollie",
+        "classification": "article"
     },
     "bl6epg": {
         "author_fullname": "t2_r9xtpwa",
@@ -132,7 +136,8 @@
         "title": "1 UPVOTE = 1 PET FOR MY WOUNDED BOI",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://i.redd.it/dqi9ph436iw21.jpg"
+        "url": "https://i.redd.it/dqi9ph436iw21.jpg",
+        "classification": "image"
     },
     "eqw4tz": {
         "author_fullname": "t2_gwa0e",
@@ -159,7 +164,8 @@
         "title": "The cultural impact of Game of Thrones",
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
-        "url": "https://i.imgur.com/fyV56Ox.jpg"
+        "url": "https://i.imgur.com/fyV56Ox.jpg",
+        "classification": "image"
     },
     "bqpgfz": {
         "author_fullname": "t2_l1ltp",
@@ -186,7 +192,8 @@
         "title": "JAIME LANNISTER IS THE NASTIEST SKANK BITCH I\u2019VE EVER MET. DO NOT TRUST HIM. HE IS A FUGLY SLUT.",
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
-        "url": "https://i.redd.it/ebl8ctke1az21.jpg"
+        "url": "https://i.redd.it/ebl8ctke1az21.jpg",
+        "classification": "image"
     },
     "but28k": {
         "author_fullname": "t2_39yvkpyy",
@@ -213,7 +220,8 @@
         "title": "Freefolks ! You made it !!",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://v.redd.it/jo12270nmc131"
+        "url": "https://v.redd.it/jo12270nmc131",
+        "classification": "video"
     },
     "br2t0z": {
         "author_fullname": "t2_nzp60",
@@ -240,7 +248,8 @@
         "title": "This video of an alternate ending wins the internet today!",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://v.redd.it/c516teli7gz21"
+        "url": "https://v.redd.it/c516teli7gz21",
+        "classification": "video"
     },
     "bqpf3y": {
         "author_fullname": "t2_8dkep",
@@ -267,6 +276,7 @@
         "title": "There was an attempt.",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "https://i.redd.it/mwipzm5v0az21.jpg"
+        "url": "https://i.redd.it/mwipzm5v0az21.jpg",
+        "classification": "image"
     }
 }

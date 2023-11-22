@@ -24,7 +24,8 @@
         "title": "Times Square right now",
         "total_awards_received": 0,
         "upvote_ratio": 0.99,
-        "url": "https://v.redd.it/x64z70f7eie61"
+        "url": "https://v.redd.it/x64z70f7eie61",
+        "classification": "video"
     },
     "l6wu59": {
         "author_fullname": "t2_6d70j6ko",
@@ -51,7 +52,8 @@
         "title": "UPVOTE so everyone sees we got SUPPORT",
         "total_awards_received": 0,
         "upvote_ratio": 0.98,
-        "url": "https://i.redd.it/sgoqy8nyt2e61.png"
+        "url": "https://i.redd.it/sgoqy8nyt2e61.png",
+        "classification": "image"
     },
     "l78uct": {
         "author_fullname": "t2_49l8qytq",
@@ -78,7 +80,8 @@
         "title": "GME YOLO update \u2014 Jan 28 2021",
         "total_awards_received": 0,
         "upvote_ratio": 0.98,
-        "url": "https://i.redd.it/opzucppb15e61.png"
+        "url": "https://i.redd.it/opzucppb15e61.png",
+        "classification": "image"
     },
     "l846a1": {
         "author_fullname": "t2_49l8qytq",
@@ -105,7 +108,8 @@
         "title": "GME YOLO month-end update \u2014 Jan 2021",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "https://i.redd.it/r557em3t5ce61.png"
+        "url": "https://i.redd.it/r557em3t5ce61.png",
+        "classification": "image"
     },
     "l881ia": {
         "author_fullname": "t2_2somh3m2",
@@ -132,7 +136,8 @@
         "title": "It\u2019s treason then",
         "total_awards_received": 0,
         "upvote_ratio": 0.98,
-        "url": "https://i.redd.it/d3t66lv1yce61.jpg"
+        "url": "https://i.redd.it/d3t66lv1yce61.jpg",
+        "classification": "image"
     },
     "l6x130": {
         "author_fullname": "t2_7xln8iwn",
@@ -159,7 +164,8 @@
         "title": "CLASS ACTION AGAINST ROBINHOOD. Allowing people to only sell is the definition of market manipulation. A class action must be started, Robinhood has made plenty of money off selling info about our trades to the hedge funds to be able to pay out a little for causing people to loose money now",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "https://www.reddit.com/r/wallstreetbets/comments/l6x130/class_action_against_robinhood_allowing_people_to/"
+        "url": "https://www.reddit.com/r/wallstreetbets/comments/l6x130/class_action_against_robinhood_allowing_people_to/",
+        "classification": "article"
     },
     "lnqgz8": {
         "author_fullname": "t2_49l8qytq",
@@ -186,7 +192,8 @@
         "title": "GME YOLO update \u2014 Feb 19 2021",
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
-        "url": "https://i.redd.it/2xswz0h11ii61.png"
+        "url": "https://i.redd.it/2xswz0h11ii61.png",
+        "classification": "image"
     },
     "l6ekdz": {
         "author_fullname": "t2_49l8qytq",
@@ -213,7 +220,8 @@
         "title": "GME YOLO update \u2014 Jan 27 2021 --------------------------------------- guess i need 102 characters in title now",
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
-        "url": "https://i.redd.it/a309gkm5yxd61.png"
+        "url": "https://i.redd.it/a309gkm5yxd61.png",
+        "classification": "image"
     },
     "lae6j0": {
         "author_fullname": "t2_49l8qytq",
@@ -240,7 +248,8 @@
         "title": "GME YOLO update \u2014 Feb 1 2021",
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
-        "url": "https://i.redd.it/og8ca1xskxe61.png"
+        "url": "https://i.redd.it/og8ca1xskxe61.png",
+        "classification": "image"
     },
     "l7feld": {
         "author_fullname": "t2_1528xo",
@@ -267,6 +276,7 @@
         "title": "IT'S POWER TO THE TRADERS NOW",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "https://v.redd.it/lu8aekujd6e61"
+        "url": "https://v.redd.it/lu8aekujd6e61",
+        "classification": "video"
     }
 }

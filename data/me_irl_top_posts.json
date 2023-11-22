@@ -24,7 +24,8 @@
         "title": "Me irl",
         "total_awards_received": 0,
         "upvote_ratio": 0.98,
-        "url": "https://i.redd.it/8f3ms5l379e51.jpg"
+        "url": "https://i.redd.it/8f3ms5l379e51.jpg",
+        "classification": "image"
     },
     "cs507j": {
         "author_fullname": "t2_3s62vecb",
@@ -51,7 +52,8 @@
         "title": "Me\ud83d\udce2irl",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://i.redd.it/agx6t6h539h31.jpg"
+        "url": "https://i.redd.it/agx6t6h539h31.jpg",
+        "classification": "image"
     },
     "oub4om": {
         "author_fullname": "t2_16ul0a",
@@ -78,7 +80,8 @@
         "title": "me_irl",
         "total_awards_received": 0,
         "upvote_ratio": 0.98,
-        "url": "https://i.redd.it/rskfujyr89e71.jpg"
+        "url": "https://i.redd.it/rskfujyr89e71.jpg",
+        "classification": "image"
     },
     "rugocg": {
         "author_fullname": "t2_u9iv8",
@@ -105,7 +108,8 @@
         "title": "Me_irl",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://i.redd.it/boottfzwob981.jpg"
+        "url": "https://i.redd.it/boottfzwob981.jpg",
+        "classification": "image"
     },
     "jnpp6m": {
         "author_fullname": "t2_4m7buu8e",
@@ -132,7 +136,8 @@
         "title": "Me_irl",
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
-        "url": "https://i.redd.it/x7wyjtadc5x51.jpg"
+        "url": "https://i.redd.it/x7wyjtadc5x51.jpg",
+        "classification": "image"
     },
     "bpdggk": {
         "author_fullname": "t2_1xfrkmie",
@@ -159,7 +164,8 @@
         "title": "me_irl",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://i.redd.it/kss1vpn06ly21.jpg"
+        "url": "https://i.redd.it/kss1vpn06ly21.jpg",
+        "classification": "image"
     },
     "dy60tm": {
         "author_fullname": "t2_3u2jcg6v",
@@ -186,7 +192,8 @@
         "title": "me irl",
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
-        "url": "https://i.redd.it/0lhg7mo09hz31.jpg"
+        "url": "https://i.redd.it/0lhg7mo09hz31.jpg",
+        "classification": "image"
     },
     "p2g8u7": {
         "author_fullname": "t2_12ia4tgf",
@@ -213,7 +220,8 @@
         "title": "me_irl",
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
-        "url": "https://i.redd.it/n9rocue47rg71.jpg"
+        "url": "https://i.redd.it/n9rocue47rg71.jpg",
+        "classification": "image"
     },
     "djgfa6": {
         "author_fullname": "t2_sq8ra",
@@ -240,7 +248,8 @@
         "title": "me_irl",
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
-        "url": "https://i.redd.it/cu45mflsg7t31.jpg"
+        "url": "https://i.redd.it/cu45mflsg7t31.jpg",
+        "classification": "image"
     },
     "elehnu": {
         "author_fullname": "t2_49g0ct0",
@@ -267,6 +276,7 @@
         "title": "me irl",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://i.redd.it/jb7c2i0i4e941.jpg"
+        "url": "https://i.redd.it/jb7c2i0i4e941.jpg",
+        "classification": "image"
     }
 }

@@ -24,7 +24,8 @@
         "title": "An anti-gay Hungarian politician has resigned after being caught by police fleeing a 25-man orgy through a window",
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
-        "url": "https://www.businessinsider.com/hungarian-mep-resigns-breaking-covid-rules-gay-orgy-brussels-2020-12"
+        "url": "https://www.businessinsider.com/hungarian-mep-resigns-breaking-covid-rules-gay-orgy-brussels-2020-12",
+        "classification": "article"
     },
     "eclwg9": {
         "author_fullname": "t2_du01v",
@@ -51,7 +52,8 @@
         "title": "Trump Impeached for Abuse of Power",
         "total_awards_received": 0,
         "upvote_ratio": 0.88,
-        "url": "https://www.nytimes.com/interactive/2019/12/18/us/politics/trump-impeachment-vote.html"
+        "url": "https://www.nytimes.com/interactive/2019/12/18/us/politics/trump-impeachment-vote.html",
+        "classification": "article"
     },
     "t3pgaz": {
         "author_fullname": "t2_jlqpx",
@@ -78,7 +80,8 @@
         "title": "Vladimir Putin's black belt revoked by international taekwondo organization",
         "total_awards_received": 0,
         "upvote_ratio": 0.89,
-        "url": "https://www.newsweek.com/vladimir-putins-black-belt-revoked-international-taekwondo-organization-1683304"
+        "url": "https://www.newsweek.com/vladimir-putins-black-belt-revoked-international-taekwondo-organization-1683304",
+        "classification": "article"
     },
     "901p5f": {
         "author_fullname": "t2_612zd",
@@ -105,7 +108,8 @@
         "title": "Two weeks before his inauguration, Donald J. Trump was shown highly classified intelligence indicating that President Vladimir V. Putin of Russia had personally ordered complex cyberattacks to sway the 2016 American election",
         "total_awards_received": 0,
         "upvote_ratio": 0.84,
-        "url": "https://www.nytimes.com/2018/07/18/world/europe/trump-intelligence-russian-election-meddling-.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=a-lede-package-region&region=top-news&WT.nav=top-news"
+        "url": "https://www.nytimes.com/2018/07/18/world/europe/trump-intelligence-russian-election-meddling-.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=a-lede-package-region&region=top-news&WT.nav=top-news",
+        "classification": "article"
     },
     "x96k3v": {
         "author_fullname": "t2_etf58",
@@ -132,7 +136,8 @@
         "title": "Queen Elizabeth II has died, Buckingham Palace announces",
         "total_awards_received": 0,
         "upvote_ratio": 0.79,
-        "url": "https://www.bbc.co.uk/news/uk-61585886"
+        "url": "https://www.bbc.co.uk/news/uk-61585886",
+        "classification": "article"
     },
     "t0b6fb": {
         "author_fullname": "t2_dxxgyaai",
@@ -159,7 +164,8 @@
         "title": "More than 150 senior Russian officials sign open letter condemning Putin's invasion of Ukraine as 'an unprecedented atrocity' and warn of 'catastrophic consequences' while urging citizens 'not to participate'",
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
-        "url": "https://www.dailymail.co.uk/news/article-10546799/More-150-senior-Russian-officials-sign-open-letter-condemning-Putins-invasion-Ukraine.html?ito=rss-flipboard"
+        "url": "https://www.dailymail.co.uk/news/article-10546799/More-150-senior-Russian-officials-sign-open-letter-condemning-Putins-invasion-Ukraine.html?ito=rss-flipboard",
+        "classification": "article"
     },
     "t1o8wq": {
         "author_fullname": "t2_dv4dbh7f",
@@ -186,7 +192,8 @@
         "title": "Rejecting US evacuation offer, Zelensky says I need anti-tank ammo, 'not a ride'",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://www.timesofisrael.com/liveblog-february-25-2022/"
+        "url": "https://www.timesofisrael.com/liveblog-february-25-2022/",
+        "classification": "article"
     },
     "t1f287": {
         "author_fullname": "t2_a0o5d75c",
@@ -213,7 +220,8 @@
         "title": "Anonymous leaks database of the Russian Ministry of Defence",
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
-        "url": "https://cybernews.com/news/anonymous-leaks-database-of-the-russian-ministry-of-defence/"
+        "url": "https://cybernews.com/news/anonymous-leaks-database-of-the-russian-ministry-of-defence/",
+        "classification": "article"
     },
     "4d75i7": {
         "author_fullname": "t2_adhbp",
@@ -240,7 +248,8 @@
         "title": "2.6 terabyte leak of Panamanian shell company data reveals \"how a global industry led by major banks, legal firms, and asset management companies secretly manages the estates of politicians, Fifa officials, fraudsters and drug smugglers, celebrities and professional athletes.\"",
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
-        "url": "http://panamapapers.sueddeutsche.de/articles/56febff0a1bb8d3c3495adf4/"
+        "url": "http://panamapapers.sueddeutsche.de/articles/56febff0a1bb8d3c3495adf4/",
+        "classification": "article"
     },
     "t20u4i": {
         "author_fullname": "t2_90ek09bb",
@@ -267,6 +276,7 @@
         "title": "Kyiv: full consensus for disconnecting Russia from SWIFT has been achieved, the process has begun",
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
-        "url": "https://www.uawire.org/kyiv-full-consensus-for-disconnecting-russia-from-swift-has-been-achieved-the-process-has-begun"
+        "url": "https://www.uawire.org/kyiv-full-consensus-for-disconnecting-russia-from-swift-has-been-achieved-the-process-has-begun",
+        "classification": "article"
     }
 }

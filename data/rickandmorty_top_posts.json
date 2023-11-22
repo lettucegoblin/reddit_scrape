@@ -24,7 +24,8 @@
         "title": "Here are you free coins",
         "total_awards_received": 0,
         "upvote_ratio": 0.9,
-        "url": "https://i.redd.it/rxm8arv8bn541.png"
+        "url": "https://i.redd.it/rxm8arv8bn541.png",
+        "classification": "image"
     },
     "ecuqy7": {
         "author_fullname": "t2_4s6v7qpp",
@@ -51,7 +52,8 @@
         "title": "Are they real?",
         "total_awards_received": 0,
         "upvote_ratio": 0.87,
-        "url": "https://i.redd.it/d7yg5cazzl541.jpg"
+        "url": "https://i.redd.it/d7yg5cazzl541.jpg",
+        "classification": "image"
     },
     "io5rev": {
         "author_fullname": "t2_3l6utlgf",
@@ -78,7 +80,8 @@
         "title": "2020 has been wild.",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://i.redd.it/k9guifnxnpl51.jpg"
+        "url": "https://i.redd.it/k9guifnxnpl51.jpg",
+        "classification": "image"
     },
     "boz08w": {
         "author_fullname": "t2_nqclzbn",
@@ -105,7 +108,8 @@
         "title": "Rick and Morty coming November 2019!!!",
         "total_awards_received": 0,
         "upvote_ratio": 0.91,
-        "url": "https://i.redd.it/10vbxzgr3ey21.jpg"
+        "url": "https://i.redd.it/10vbxzgr3ey21.jpg",
+        "classification": "image"
     },
     "10khzs6": {
         "author_fullname": "t2_5adwlxvn",
@@ -132,7 +136,8 @@
         "title": "Adult Swim Severs Ties With \u2018Rick And Morty\u2019 Co-Creator Justin Roiland",
         "total_awards_received": 0,
         "upvote_ratio": 0.89,
-        "url": "https://i.redd.it/2cibq23pf2ea1.jpg"
+        "url": "https://i.redd.it/2cibq23pf2ea1.jpg",
+        "classification": "image"
     },
     "h7lcnb": {
         "author_fullname": "t2_15pr76",
@@ -159,7 +164,8 @@
         "title": "Since we\u2019re tearing down statues...",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://i.redd.it/2ponf6aglh451.jpg"
+        "url": "https://i.redd.it/2ponf6aglh451.jpg",
+        "classification": "image"
     },
     "ex5x0s": {
         "author_fullname": "t2_xj0wt",
@@ -186,7 +192,8 @@
         "title": "We need a vacation",
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
-        "url": "https://i.redd.it/c0ogbb2labe41.jpg"
+        "url": "https://i.redd.it/c0ogbb2labe41.jpg",
+        "classification": "image"
     },
     "dthnyp": {
         "author_fullname": "t2_r5vvicc",
@@ -213,7 +220,8 @@
         "title": "Big oof for me",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://i.redd.it/r8q1hdpomhx31.png"
+        "url": "https://i.redd.it/r8q1hdpomhx31.png",
+        "classification": "image"
     },
     "75tflc": {
         "author_fullname": "[deleted]",
@@ -240,7 +248,8 @@
         "title": "Rick and Morty fanbase reacting to the Rick and Morty fanbase",
         "total_awards_received": 0,
         "upvote_ratio": 0.92,
-        "url": "https://i.imgur.com/nRZcvyi.jpg"
+        "url": "https://i.imgur.com/nRZcvyi.jpg",
+        "classification": "image"
     },
     "ph5bib": {
         "author_fullname": "t2_8f2o73r3",
@@ -267,6 +276,7 @@
         "title": "Omfgg!!!",
         "total_awards_received": 0,
         "upvote_ratio": 0.87,
-        "url": "https://v.redd.it/uvloy8s4kal71"
+        "url": "https://v.redd.it/uvloy8s4kal71",
+        "classification": "video"
     }
 }

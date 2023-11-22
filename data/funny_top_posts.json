@@ -24,7 +24,8 @@
         "title": "My cab driver tonight was so excited to share with me that he\u2019d made the cover of the calendar. I told him I\u2019d help let the world see",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "https://i.redd.it/tojcmbvjwk601.jpg"
+        "url": "https://i.redd.it/tojcmbvjwk601.jpg",
+        "classification": "image"
     },
     "5gn8ru": {
         "author_fullname": "t2_tu7hd",
@@ -51,7 +52,8 @@
         "title": "Guardians of the Front Page",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "http://i.imgur.com/OOFRJvr.gifv"
+        "url": "http://i.imgur.com/OOFRJvr.gifv",
+        "classification": "image"
     },
     "7431qq": {
         "author_fullname": "[deleted]",
@@ -78,7 +80,8 @@
         "title": "Gas station worker takes precautionary measures after customer refused to put out his cigarette",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "https://gfycat.com/ResponsibleJadedAmericancurl"
+        "url": "https://gfycat.com/ResponsibleJadedAmericancurl",
+        "classification": "article"
     },
     "7kvjuz": {
         "author_fullname": "t2_f89td",
@@ -105,7 +108,8 @@
         "title": "The conversation my son and I will have on Christmas Eve.",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://i.imgur.com/yH25jLZ.gifv"
+        "url": "https://i.imgur.com/yH25jLZ.gifv",
+        "classification": "image"
     },
     "j0w79j": {
         "author_fullname": "t2_3qm765k",
@@ -132,7 +136,8 @@
         "title": "The Denver Broncos have the entire town of \u2018South Park\u2019 in the stands for today\u2019s NFL game.",
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
-        "url": "https://i.redd.it/x9h34hp8iqp51.jpg"
+        "url": "https://i.redd.it/x9h34hp8iqp51.jpg",
+        "classification": "image"
     },
     "d2bwot": {
         "author_fullname": "t2_2g106m47",
@@ -159,7 +164,8 @@
         "title": "Printers",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "https://i.redd.it/jlx9wokn7tl31.jpg"
+        "url": "https://i.redd.it/jlx9wokn7tl31.jpg",
+        "classification": "image"
     },
     "i0wgoo": {
         "author_fullname": "t2_6epie",
@@ -186,7 +192,8 @@
         "title": "Just increased my car\u2019s value by 1 billion dollars",
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
-        "url": "https://v.redd.it/wa4bmlccu2e51"
+        "url": "https://v.redd.it/wa4bmlccu2e51",
+        "classification": "video"
     },
     "ge4l65": {
         "author_fullname": "t2_2v4qqxy6",
@@ -213,7 +220,8 @@
         "title": "My grandma wanted some \u201ccreative\u201d grad photos of my friend since we\u2019re graduating at the same time. This was her least favorite",
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
-        "url": "https://i.redd.it/gsnsg2xj20x41.jpg"
+        "url": "https://i.redd.it/gsnsg2xj20x41.jpg",
+        "classification": "image"
     },
     "ghujvl": {
         "author_fullname": "t2_a23hs",
@@ -240,7 +248,8 @@
         "title": "Today one of my 4th grade students renamed himself \"reconecting ...\" on our Zoom call and pretended that he was having internet issues to avoid participating in our lesson.",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "https://imgur.com/k9p0AJQ"
+        "url": "https://imgur.com/k9p0AJQ",
+        "classification": "article"
     },
     "q1a7iu": {
         "author_fullname": "t2_6c682khd",
@@ -267,6 +276,7 @@
         "title": "Zuckerberg right now",
         "total_awards_received": 0,
         "upvote_ratio": 0.91,
-        "url": "https://i.redd.it/xfswcv73xgr71.jpg"
+        "url": "https://i.redd.it/xfswcv73xgr71.jpg",
+        "classification": "image"
     }
 }

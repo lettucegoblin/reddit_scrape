@@ -24,7 +24,8 @@
         "title": "This is what happens when one company owns dozens of local news stations",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "https://youtu.be/hWLjYJ4BzvI"
+        "url": "https://youtu.be/hWLjYJ4BzvI",
+        "classification": "video"
     },
     "artkmz": {
         "author_fullname": "t2_2jiv3l10",
@@ -51,7 +52,8 @@
         "title": "Youtube is Facilitating the Sexual Exploitation of Children, and it's Being Monetized (2019)",
         "total_awards_received": 0,
         "upvote_ratio": 0.9,
-        "url": "https://www.youtube.com/watch?v=O13G5A5w5P0"
+        "url": "https://www.youtube.com/watch?v=O13G5A5w5P0",
+        "classification": "video"
     },
     "6afe8u": {
         "author_fullname": "t2_8yr4m",
@@ -78,7 +80,8 @@
         "title": "history of the entire world, i guess",
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
-        "url": "https://www.youtube.com/watch?v=xuCn8ux2gbs"
+        "url": "https://www.youtube.com/watch?v=xuCn8ux2gbs",
+        "classification": "video"
     },
     "7ejban": {
         "author_fullname": "t2_a3ka4",
@@ -105,7 +108,8 @@
         "title": "Net Neutrality Videos & Discussion Megathread",
         "total_awards_received": 0,
         "upvote_ratio": 0.89,
-        "url": "https://www.reddit.com/r/videos/comments/7ejban/net_neutrality_videos_discussion_megathread/"
+        "url": "https://www.reddit.com/r/videos/comments/7ejban/net_neutrality_videos_discussion_megathread/",
+        "classification": "article"
     },
     "kpw1i4": {
         "author_fullname": "t2_6jucw",
@@ -132,7 +136,8 @@
         "title": "Jared, the man behind the famous South Park WoW cosplay has passed away due to Covid-19. RIP",
         "total_awards_received": 0,
         "upvote_ratio": 0.88,
-        "url": "https://www.youtube.com/watch?v=C3I4wpHshuw&ab_channel=mirrodin14"
+        "url": "https://www.youtube.com/watch?v=C3I4wpHshuw&ab_channel=mirrodin14",
+        "classification": "video"
     },
     "9v3efi": {
         "author_fullname": "t2_1lizgivp",
@@ -159,7 +164,8 @@
         "title": "Reagan reacting to a balloon popping 2 months after he was shot.",
         "total_awards_received": 0,
         "upvote_ratio": 0.91,
-        "url": "https://www.youtube.com/watch?v=5UowNDaxRqU"
+        "url": "https://www.youtube.com/watch?v=5UowNDaxRqU",
+        "classification": "video"
     },
     "ay4nxh": {
         "author_fullname": "t2_jowap",
@@ -186,7 +192,8 @@
         "title": "Jeopardy!'s Alex Trebek Reveals that he has Stage 4 Pancreatic Cancer",
         "total_awards_received": 0,
         "upvote_ratio": 0.88,
-        "url": "https://www.youtube.com/watch?v=7cInGyxCY9k&feature=youtu.be"
+        "url": "https://www.youtube.com/watch?v=7cInGyxCY9k&feature=youtu.be",
+        "classification": "video"
     },
     "7p69uk": {
         "author_fullname": "t2_9zmfn",
@@ -213,7 +220,8 @@
         "title": "Teacher Arrested for Asking Why the Superintendent Got a Raise, While Teachers Haven't Gotten a Raise in Years",
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
-        "url": "https://www.youtube.com/attribution_link?a=LCwtEiE4d5w&u=%2Fwatch%3Fv%3D8sg8lY-leE8%26feature%3Dshare"
+        "url": "https://www.youtube.com/attribution_link?a=LCwtEiE4d5w&u=%2Fwatch%3Fv%3D8sg8lY-leE8%26feature%3Dshare",
+        "classification": "video"
     },
     "6g0yt4": {
         "author_fullname": "t2_wtu9a",
@@ -240,7 +248,8 @@
         "title": "Few things feel as great as receiving a birthday surprise",
         "total_awards_received": 0,
         "upvote_ratio": 0.9,
-        "url": "https://streamable.com/0dd5b"
+        "url": "https://streamable.com/0dd5b",
+        "classification": "article"
     },
     "7j31he": {
         "author_fullname": "t2_4d9s0",
@@ -267,6 +276,7 @@
         "title": "Former Facebook exec: \"I think we have created tools that are ripping apart the social fabric of how society works. The short-term, dopamine-driven feedback loops we\u2019ve created are destroying how society works. No civil discourse, no cooperation; misinformation, mistruth. You are being programmed\"",
         "total_awards_received": 0,
         "upvote_ratio": 0.92,
-        "url": "https://youtu.be/PMotykw0SIk?t=1282"
+        "url": "https://youtu.be/PMotykw0SIk?t=1282",
+        "classification": "video"
     }
 }

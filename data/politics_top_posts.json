@@ -24,7 +24,8 @@
         "title": "Megathread: Joe Biden Projected to Defeat President Donald Trump and Win the 2020 US Presidential Election",
         "total_awards_received": 0,
         "upvote_ratio": 0.88,
-        "url": "https://www.reddit.com/r/politics/comments/jptq5n/megathread_joe_biden_projected_to_defeat/"
+        "url": "https://www.reddit.com/r/politics/comments/jptq5n/megathread_joe_biden_projected_to_defeat/",
+        "classification": "article"
     },
     "krntg6": {
         "author_fullname": "t2_770odrt8",
@@ -51,7 +52,8 @@
         "title": "Mitch McConnell Will Lose Control Of The Senate As Democrats Have Swept The Georgia Runoffs",
         "total_awards_received": 0,
         "upvote_ratio": 0.92,
-        "url": "https://www.buzzfeednews.com/article/paulmcleod/republicans-lose-senate-georgia-mcconnell"
+        "url": "https://www.buzzfeednews.com/article/paulmcleod/republicans-lose-senate-georgia-mcconnell",
+        "classification": "article"
     },
     "ecm1zg": {
         "author_fullname": "t2_onl9u",
@@ -78,7 +80,8 @@
         "title": "Megathread: House Votes to Impeach President Donald J. Trump",
         "total_awards_received": 0,
         "upvote_ratio": 0.89,
-        "url": "https://www.reddit.com/r/politics/comments/ecm1zg/megathread_house_votes_to_impeach_president/"
+        "url": "https://www.reddit.com/r/politics/comments/ecm1zg/megathread_house_votes_to_impeach_president/",
+        "classification": "article"
     },
     "jcm5dz": {
         "author_fullname": "t2_umckw",
@@ -105,7 +108,8 @@
         "title": "Trump Threatens to \u2018Leave the Country\u2019 if He Loses to Biden",
         "total_awards_received": 0,
         "upvote_ratio": 0.89,
-        "url": "https://www.thedailybeast.com/trump-threatens-to-leave-the-country-if-he-loses-to-biden"
+        "url": "https://www.thedailybeast.com/trump-threatens-to-leave-the-country-if-he-loses-to-biden",
+        "classification": "article"
     },
     "i19sjg": {
         "author_fullname": "t2_4bxi11t9",
@@ -132,7 +136,8 @@
         "title": "Demands for Kushner to Resign Over 'Staggering' Level of 'Depravity' That Put Politics Before Public Health. \"Holy hell. Jared Kushner reportedly abandoned a national testing plan because it was *politically advantageous* to sit back and let blue states be eviscerated by the virus.\"",
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
-        "url": "https://www.commondreams.org/news/2020/07/31/demands-kushner-resign-over-staggering-level-depravity-put-politics-public-health"
+        "url": "https://www.commondreams.org/news/2020/07/31/demands-kushner-resign-over-staggering-level-depravity-put-politics-public-health",
+        "classification": "article"
     },
     "h7ic8s": {
         "author_fullname": "t2_2gol75lf",
@@ -159,7 +164,8 @@
         "title": "Over A million people sign petition calling for KKK to be declared a terrorist group",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://www.newsweek.com/kkk-petition-terrorist-group-million-1510419"
+        "url": "https://www.newsweek.com/kkk-petition-terrorist-group-million-1510419",
+        "classification": "article"
     },
     "l1ynt4": {
         "author_fullname": "t2_tribz",
@@ -186,7 +192,8 @@
         "title": "Report: Biden Admin Discovers Trump Had Zero Plans For COVID Vaccine Distribution",
         "total_awards_received": 0,
         "upvote_ratio": 0.82,
-        "url": "https://talkingpointsmemo.com/news/report-biden-admin-discovers-trump-had-zero-plans-for-covid-vaccine-distribution"
+        "url": "https://talkingpointsmemo.com/news/report-biden-admin-discovers-trump-had-zero-plans-for-covid-vaccine-distribution",
+        "classification": "article"
     },
     "jsi48r": {
         "author_fullname": "t2_5xnvodgt",
@@ -213,7 +220,8 @@
         "title": "Biden's Pennsylvania lead is now big enough to avoid an automatic recount",
         "total_awards_received": 0,
         "upvote_ratio": 0.85,
-        "url": "https://theweek.com/speedreads/949468/bidens-pennsylvania-lead-now-big-enough-avoid-automatic-recount"
+        "url": "https://theweek.com/speedreads/949468/bidens-pennsylvania-lead-now-big-enough-avoid-automatic-recount",
+        "classification": "article"
     },
     "l1902k": {
         "author_fullname": "t2_87vpf",
@@ -240,7 +248,8 @@
         "title": "Donald Trump Has Just Left the White House\u2014This Time, for Good",
         "total_awards_received": 0,
         "upvote_ratio": 0.83,
-        "url": "https://www.thedailybeast.com/donald-trump-has-just-left-the-white-house-for-good"
+        "url": "https://www.thedailybeast.com/donald-trump-has-just-left-the-white-house-for-good",
+        "classification": "article"
     },
     "g03uny": {
         "author_fullname": "t2_op6gh",
@@ -267,6 +276,7 @@
         "title": "Virginia governor makes Election Day a holiday and expands early voting",
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
-        "url": "https://www.cnn.com/2020/04/12/politics/virginia-election-day-holiday-early-voting/index.html"
+        "url": "https://www.cnn.com/2020/04/12/politics/virginia-election-day-holiday-early-voting/index.html",
+        "classification": "article"
     }
 }

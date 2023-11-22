@@ -24,7 +24,8 @@
         "title": "I'm 17 years old and just finished building this 14.7\" f/2.89 Newtonian reflector telescope. Despite its stubby size it collects roughly 2500 times more light than the human eye and is bigger than the scope at my local observatory.",
         "total_awards_received": 0,
         "upvote_ratio": 0.92,
-        "url": "https://i.redd.it/luf6z5ghfop41.jpg"
+        "url": "https://i.redd.it/luf6z5ghfop41.jpg",
+        "classification": "image"
     },
     "62td2v": {
         "author_fullname": "t2_ebani",
@@ -51,7 +52,8 @@
         "title": "Half-naked girls get thousands of upvotes, how many for our boy in blue?",
         "total_awards_received": 0,
         "upvote_ratio": 0.87,
-        "url": "http://static3.businessinsider.com/image/565472f0c28144c1018b4fa7/elon-musk-congratulates-jeff-bezos-for-his-amazing-rocket-landing-and-reminds-everyone-that-spacex-is-still-ahead.jpg"
+        "url": "http://static3.businessinsider.com/image/565472f0c28144c1018b4fa7/elon-musk-congratulates-jeff-bezos-for-his-amazing-rocket-landing-and-reminds-everyone-that-spacex-is-still-ahead.jpg",
+        "classification": "article"
     },
     "vwv1et": {
         "author_fullname": "t2_7uabnis9",
@@ -78,7 +80,8 @@
         "title": "First full-colour Image of deep space from the James Webb Space Telescope revealed by NASA (in 4k)",
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
-        "url": "https://i.redd.it/upud5pzg32b91.jpg"
+        "url": "https://i.redd.it/upud5pzg32b91.jpg",
+        "classification": "image"
     },
     "arer0k": {
         "author_fullname": "t2_n7x4x",
@@ -105,7 +108,8 @@
         "title": "I took nearly 50,000 images of the night sky to make an 81 Megapixel image of Tuesday's moon. Uncompressed image linked in the comments. [OC]",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "https://i.redd.it/d1aehdnbq0h21.jpg"
+        "url": "https://i.redd.it/d1aehdnbq0h21.jpg",
+        "classification": "image"
     },
     "l9ovhe": {
         "author_fullname": "t2_n7x4x",
@@ -132,7 +136,8 @@
         "title": "By complete accident I captured a plane crossing in front of our sun. I was able to figure out exactly which flight it was and got connected with the pilot, who was thrilled.",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://i.redd.it/7vh012zn3re61.jpg"
+        "url": "https://i.redd.it/7vh012zn3re61.jpg",
+        "classification": "image"
     },
     "d4k2ce": {
         "author_fullname": "t2_3yco6v2i",
@@ -159,7 +164,8 @@
         "title": "The clearest image of Mars ever taken!",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "https://i.redd.it/bd8nopgsbw631.jpg"
+        "url": "https://i.redd.it/bd8nopgsbw631.jpg",
+        "classification": "image"
     },
     "7iqgbe": {
         "author_fullname": "t2_ya5gx",
@@ -186,7 +192,8 @@
         "title": "And just like that, a space race is born.",
         "total_awards_received": 0,
         "upvote_ratio": 0.9,
-        "url": "https://i.imgur.com/5qShsue.jpg"
+        "url": "https://i.imgur.com/5qShsue.jpg",
+        "classification": "image"
     },
     "bblt4f": {
         "author_fullname": "t2_j8d74",
@@ -213,7 +220,8 @@
         "title": "Astronomers Capture First Image of a Black Hole",
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
-        "url": "https://www.eso.org/public/news/eso1907/"
+        "url": "https://www.eso.org/public/news/eso1907/",
+        "classification": "article"
     },
     "122475u": {
         "author_fullname": "t2_n7x4x",
@@ -240,7 +248,8 @@
         "title": "I teamed up with a fellow redditor to try and capture the most ridiculously detailed image of the entire sun we could. The result was a whopping 140 megapixels, and features a solar \"tornado\" over 14 Earths tall. This is a crop from the full image, make sure you zoom in!",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://i.redd.it/bbxyjafqzypa1.jpg"
+        "url": "https://i.redd.it/bbxyjafqzypa1.jpg",
+        "classification": "image"
     },
     "wtl9fj": {
         "author_fullname": "t2_n7x4x",
@@ -267,6 +276,7 @@
         "title": "Two years ago, I teamed up with a fellow redditor to try and take the most ridiculous moon shot we could come up with. Today, we proudly introduce our newest collaboration, a 174 megapixel look at our cosmic companion. Zoom in to check it out!",
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
-        "url": "https://i.redd.it/zm4nfgq29yi91.jpg"
+        "url": "https://i.redd.it/zm4nfgq29yi91.jpg",
+        "classification": "image"
     }
 }

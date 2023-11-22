@@ -24,7 +24,8 @@
         "title": "The Senate. Upvote this so that people see it when they Google \"The Senate\".",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "http://i.imgur.com/ChYwfMq.jpg"
+        "url": "http://i.imgur.com/ChYwfMq.jpg",
+        "classification": "image"
     },
     "11ia0od": {
         "author_fullname": "t2_2yjg9dt0",
@@ -51,7 +52,8 @@
         "title": "Hi, I\u2019m Keanu Reeves, AMA",
         "total_awards_received": 0,
         "upvote_ratio": 0.92,
-        "url": "https://i.redd.it/mlgq2heerrla1.jpg"
+        "url": "https://i.redd.it/mlgq2heerrla1.jpg",
+        "classification": "image"
     },
     "iikebv": {
         "author_fullname": "t2_16rmi4",
@@ -78,7 +80,8 @@
         "title": "\u2018Black Panther\u2019 actor Chadwick Boseman dies at 43 after 4-year fight with colon cancer",
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
-        "url": "https://apnews.com/7e2cb43ba86130d92e2128d907b860fd"
+        "url": "https://apnews.com/7e2cb43ba86130d92e2128d907b860fd",
+        "classification": "article"
     },
     "tzxev3": {
         "author_fullname": "t2_2yjg9dt0",
@@ -105,7 +108,8 @@
         "title": "Hello, I\u2019m Nicolas Cage and welcome to Ask Me Anything",
         "total_awards_received": 0,
         "upvote_ratio": 0.92,
-        "url": "https://i.redd.it/u52awga3bjs81.jpg"
+        "url": "https://i.redd.it/u52awga3bjs81.jpg",
+        "classification": "image"
     },
     "ztqlgb": {
         "author_fullname": "t2_v02y5vxa",
@@ -132,7 +136,8 @@
         "title": "Hi, I\u2019m Tobey Maguire, actor/executive producer of BABYLON and occasional superhero. AMA!",
         "total_awards_received": 0,
         "upvote_ratio": 0.85,
-        "url": "https://i.redd.it/mksojj5s9p7a1.jpg"
+        "url": "https://i.redd.it/mksojj5s9p7a1.jpg",
+        "classification": "image"
     },
     "b1i33f": {
         "author_fullname": "t2_1ul3bfli",
@@ -159,7 +164,8 @@
         "title": "Disney Reinstates Director James Gunn For \u2018Guardians Of The Galaxy 3\u2019",
         "total_awards_received": 0,
         "upvote_ratio": 0.91,
-        "url": "https://deadline.com/2019/03/james-gunn-reinstated-guardians-of-the-galaxy-3-disney-suicide-squad-2-indefensible-social-media-messages-1202576444/"
+        "url": "https://deadline.com/2019/03/james-gunn-reinstated-guardians-of-the-galaxy-3-disney-suicide-squad-2-indefensible-social-media-messages-1202576444/",
+        "classification": "article"
     },
     "488gjl": {
         "author_fullname": "t2_4vik6",
@@ -186,7 +192,8 @@
         "title": "Leo gets the Oscar!",
         "total_awards_received": 0,
         "upvote_ratio": 0.75,
-        "url": "https://www.reddit.com/r/movies/comments/488gjl/leo_gets_the_oscar/"
+        "url": "https://www.reddit.com/r/movies/comments/488gjl/leo_gets_the_oscar/",
+        "classification": "article"
     },
     "jlhi6x": {
         "author_fullname": "t2_mdm7g",
@@ -213,7 +220,8 @@
         "title": "Sir Sean Connery dies aged 90",
         "total_awards_received": 0,
         "upvote_ratio": 0.9,
-        "url": "https://www.bbc.co.uk/news/entertainment-arts-54761824"
+        "url": "https://www.bbc.co.uk/news/entertainment-arts-54761824",
+        "classification": "article"
     },
     "wd47jv": {
         "author_fullname": "t2_chlm7",
@@ -240,7 +248,8 @@
         "title": "Please Bring Back Voice Actors, Stop Celebrity Voices",
         "total_awards_received": 0,
         "upvote_ratio": 0.85,
-        "url": "https://gizmodo.com/voice-acting-celebrity-actors-dc-super-pets-1849025701"
+        "url": "https://gizmodo.com/voice-acting-celebrity-actors-dc-super-pets-1849025701",
+        "classification": "article"
     },
     "77helj": {
         "author_fullname": "t2_hcx7v",
@@ -267,6 +276,7 @@
         "title": "Hey everyone, Guillermo here. I wanted the Reddit community to be the first to see the official artwork for my new film, The Shape of Water. Enjoy!",
         "total_awards_received": 0,
         "upvote_ratio": 0.88,
-        "url": "https://i.redd.it/a7u9b600rusz.jpg"
+        "url": "https://i.redd.it/a7u9b600rusz.jpg",
+        "classification": "image"
     }
 }

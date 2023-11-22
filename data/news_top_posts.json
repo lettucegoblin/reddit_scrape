@@ -24,7 +24,8 @@
         "title": "Joe Biden elected president of the United States",
         "total_awards_received": 0,
         "upvote_ratio": 0.88,
-        "url": "https://apnews.com/article/election-2020-joe-biden-north-america-national-elections-elections-7200c2d4901d8e47f1302954685a737f"
+        "url": "https://apnews.com/article/election-2020-joe-biden-north-america-national-elections-elections-7200c2d4901d8e47f1302954685a737f",
+        "classification": "article"
     },
     "mv0fzt": {
         "author_fullname": "t2_f2jn1q3",
@@ -51,7 +52,8 @@
         "title": "Chauvin found guilty of murder, manslaughter in George Floyd's death",
         "total_awards_received": 0,
         "upvote_ratio": 0.8,
-        "url": "https://kstp.com/news/former-minneapolis-police-officer-derek-chauvin-found-guilty-of-murder-manslaughter-in-george-floyd-death/6081181/?cat=1"
+        "url": "https://kstp.com/news/former-minneapolis-police-officer-derek-chauvin-found-guilty-of-murder-manslaughter-in-george-floyd-death/6081181/?cat=1",
+        "classification": "article"
     },
     "j3oj21": {
         "author_fullname": "t2_9cl0t",
@@ -78,7 +80,8 @@
         "title": "President Donald Trump says he has tested positive for coronavirus",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://www.cnbc.com/2020/10/02/president-donald-trump-says-he-has-tested-positive-for-coronavirus.html"
+        "url": "https://www.cnbc.com/2020/10/02/president-donald-trump-says-he-has-tested-positive-for-coronavirus.html",
+        "classification": "article"
     },
     "dfn3yi": {
         "author_fullname": "t2_167ibb",
@@ -105,7 +108,8 @@
         "title": "Blizzard Employees Staged a Walkout After the Company Banned a Gamer for Pro-Hong Kong Views",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "https://www.thedailybeast.com/blizzard-employees-staged-a-walkout-to-protest-banned-pro-hong-kong-gamer"
+        "url": "https://www.thedailybeast.com/blizzard-employees-staged-a-walkout-to-protest-banned-pro-hong-kong-gamer",
+        "classification": "article"
     },
     "l18yys": {
         "author_fullname": "t2_13m39t",
@@ -132,7 +136,8 @@
         "title": "Trump has left the White House for the last time as President",
         "total_awards_received": 0,
         "upvote_ratio": 0.82,
-        "url": "https://edition.cnn.com/politics/live-news/biden-harris-inauguration-day-2021/h_3a1320a33c4bca4445d129010660144c"
+        "url": "https://edition.cnn.com/politics/live-news/biden-harris-inauguration-day-2021/h_3a1320a33c4bca4445d129010660144c",
+        "classification": "article"
     },
     "eubjfc": {
         "author_fullname": "t2_6eq99",
@@ -159,7 +164,8 @@
         "title": "Kobe Bryant killed in helicopter crash in California",
         "total_awards_received": 0,
         "upvote_ratio": 0.91,
-        "url": "https://www.fox5dc.com/news/kobe-bryant-killed-in-helicopter-crash-in-california-tmz-reports"
+        "url": "https://www.fox5dc.com/news/kobe-bryant-killed-in-helicopter-crash-in-california-tmz-reports",
+        "classification": "article"
     },
     "jqfm3b": {
         "author_fullname": "t2_wnidd",
@@ -186,7 +192,8 @@
         "title": "'Jeopardy' host Alex Trebek dies at 80 due to pancreatic cancer",
         "total_awards_received": 0,
         "upvote_ratio": 0.91,
-        "url": "https://abc13.com/entertainment/jeopardy-host-alex-trebek-dies-at-80-due-to-pancreatic-cancer/7769962/"
+        "url": "https://abc13.com/entertainment/jeopardy-host-alex-trebek-dies-at-80-due-to-pancreatic-cancer/7769962/",
+        "classification": "article"
     },
     "x96mla": {
         "author_fullname": "t2_s1hr8arw",
@@ -213,7 +220,8 @@
         "title": "Queen Elizabeth II, has died",
         "total_awards_received": 0,
         "upvote_ratio": 0.79,
-        "url": "https://www.bbc.co.uk/news/uk-61585886"
+        "url": "https://www.bbc.co.uk/news/uk-61585886",
+        "classification": "article"
     },
     "84aebi": {
         "author_fullname": "t2_10knci",
@@ -240,7 +248,8 @@
         "title": "Scientist Stephen Hawking has died aged 76",
         "total_awards_received": 0,
         "upvote_ratio": 0.92,
-        "url": "http://news.sky.com/story/scientist-stephen-hawking-has-died-aged-76-11289119"
+        "url": "http://news.sky.com/story/scientist-stephen-hawking-has-died-aged-76-11289119",
+        "classification": "article"
     },
     "dp5lr1": {
         "author_fullname": "t2_3fddyio",
@@ -267,6 +276,7 @@
         "title": "Jeffrey Epstein's autopsy more consistent with homicidal strangulation than suicide, Dr. Michael Baden reveals",
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
-        "url": "https://www.foxnews.com/us/forensic-pathologist-jeffrey-epstein-homicide-suicide"
+        "url": "https://www.foxnews.com/us/forensic-pathologist-jeffrey-epstein-homicide-suicide",
+        "classification": "article"
     }
 }

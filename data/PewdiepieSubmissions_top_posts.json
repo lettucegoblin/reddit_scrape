@@ -24,7 +24,8 @@
         "title": "\ud83c\udf89CONGRATULATIONS FELIX & MARZIA \ud83c\udf89",
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
-        "url": "https://twitter.com/pewdiepie/status/1163778709268176896?s=19"
+        "url": "https://twitter.com/pewdiepie/status/1163778709268176896?s=19",
+        "classification": "article"
     },
     "eczrni": {
         "author_fullname": "t2_imbvz",
@@ -51,7 +52,8 @@
         "title": "WE JUST HIT 20 MILLION TREES!!!! CONGRATULATIONS",
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
-        "url": "https://i.imgur.com/g60dXoP.jpg"
+        "url": "https://i.imgur.com/g60dXoP.jpg",
+        "classification": "image"
     },
     "jm48ve": {
         "author_fullname": "t2_ii3x4",
@@ -78,7 +80,8 @@
         "title": "Almighty Pewds, I have made a work of art for you. Please give me an award. BROFIST",
         "total_awards_received": 0,
         "upvote_ratio": 0.98,
-        "url": "https://i.redd.it/cdga79qrenw51.png"
+        "url": "https://i.redd.it/cdga79qrenw51.png",
+        "classification": "image"
     },
     "azef30": {
         "author_fullname": "t2_lvcg59f",
@@ -105,7 +108,8 @@
         "title": "I am honored to be army general of the 9 y/o army, and I am ready to host meme review.",
         "total_awards_received": 0,
         "upvote_ratio": 0.92,
-        "url": "https://i.redd.it/94gr8qu6p9l21.jpg"
+        "url": "https://i.redd.it/94gr8qu6p9l21.jpg",
+        "classification": "image"
     },
     "d6rkg4": {
         "author_fullname": "t2_3zia9nn0",
@@ -132,7 +136,8 @@
         "title": "Area 51 Legend",
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
-        "url": "https://i.redd.it/rg542ijwepn31.gif"
+        "url": "https://i.redd.it/rg542ijwepn31.gif",
+        "classification": "image"
     },
     "ecozqq": {
         "author_fullname": "t2_677rxdp",
@@ -159,7 +164,8 @@
         "title": "Guess I\u2019m not really popular...",
         "total_awards_received": 0,
         "upvote_ratio": 0.93,
-        "url": "https://i.redd.it/xzdgz4j44j541.jpg"
+        "url": "https://i.redd.it/xzdgz4j44j541.jpg",
+        "classification": "image"
     },
     "grs1je": {
         "author_fullname": "t2_1j18465o",
@@ -186,7 +192,8 @@
         "title": "Youtuber consistently take a photo everyday for 10 years",
         "total_awards_received": 0,
         "upvote_ratio": 0.91,
-        "url": "https://v.redd.it/u2cceuw4ed151"
+        "url": "https://v.redd.it/u2cceuw4ed151",
+        "classification": "video"
     },
     "cd4vgc": {
         "author_fullname": "t2_40tp8d4s",
@@ -213,7 +220,8 @@
         "title": "Addiction 100",
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
-        "url": "https://i.redd.it/71igrmxroaa31.jpg"
+        "url": "https://i.redd.it/71igrmxroaa31.jpg",
+        "classification": "image"
     },
     "csxiw2": {
         "author_fullname": "t2_mteb79",
@@ -240,7 +248,8 @@
         "title": "pewdiepie's first photo and his most recent photo on instagram <3",
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
-        "url": "https://i.redd.it/5s2rw9neflh31.jpg"
+        "url": "https://i.redd.it/5s2rw9neflh31.jpg",
+        "classification": "image"
     },
     "cv2l6w": {
         "author_fullname": "t2_imbvz",
@@ -267,6 +276,7 @@
         "title": "\ud83c\udf89 100.000.000 SUBSCRIBERS \ud83c\udf89",
         "total_awards_received": 0,
         "upvote_ratio": 0.86,
-        "url": "https://twitter.com/subgap/status/1165444092542803968?s=19"
+        "url": "https://twitter.com/subgap/status/1165444092542803968?s=19",
+        "classification": "article"
     }
 }

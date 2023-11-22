@@ -24,7 +24,8 @@
         "title": "Squeaky Clean [OC]",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "https://i.redd.it/z2chke13ukg31.jpg"
+        "url": "https://i.redd.it/z2chke13ukg31.jpg",
+        "classification": "image"
     },
     "z0xupe": {
         "author_fullname": "t2_cfijs3z2",
@@ -51,7 +52,8 @@
         "title": "Insurance",
         "total_awards_received": 0,
         "upvote_ratio": 0.88,
-        "url": "https://i.redd.it/cdxzj8f6ta1a1.png"
+        "url": "https://i.redd.it/cdxzj8f6ta1a1.png",
+        "classification": "image"
     },
     "11gxpcu": {
         "author_fullname": "t2_is4gm",
@@ -78,7 +80,8 @@
         "title": "Our Little Secret",
         "total_awards_received": 0,
         "upvote_ratio": 0.96,
-        "url": "https://i.imgur.com/cpDks96.jpg"
+        "url": "https://i.imgur.com/cpDks96.jpg",
+        "classification": "image"
     },
     "wcb0gl": {
         "author_fullname": "t2_5z6vwovq",
@@ -105,7 +108,8 @@
         "title": "Cells at Overwork",
         "total_awards_received": 0,
         "upvote_ratio": 0.97,
-        "url": "https://i.redd.it/ulcildidnse91.jpg"
+        "url": "https://i.redd.it/ulcildidnse91.jpg",
+        "classification": "image"
     },
     "1062wgb": {
         "author_fullname": "t2_sin31ki9",
@@ -132,7 +136,8 @@
         "title": "Mirror mirror on the wall",
         "total_awards_received": 0,
         "upvote_ratio": 0.94,
-        "url": "https://i.redd.it/b5evzucjfpaa1.png"
+        "url": "https://i.redd.it/b5evzucjfpaa1.png",
+        "classification": "image"
     },
     "hkxclz": {
         "author_fullname": "t2_12xcb8ia",
@@ -159,7 +164,8 @@
         "title": "I'd Do Anything [OC]",
         "total_awards_received": 0,
         "upvote_ratio": 0.85,
-        "url": "https://i.redd.it/cf0ia2dlpr851.gif"
+        "url": "https://i.redd.it/cf0ia2dlpr851.gif",
+        "classification": "image"
     },
     "xca1gx": {
         "author_fullname": "t2_f1b2g",
@@ -186,7 +192,8 @@
         "title": "Harry Potter and what the future holds",
         "total_awards_received": 0,
         "upvote_ratio": 0.9,
-        "url": "https://i.redd.it/3kvhca1iven91.jpg"
+        "url": "https://i.redd.it/3kvhca1iven91.jpg",
+        "classification": "image"
     },
     "112mbxp": {
         "author_fullname": "t2_hppff",
@@ -213,7 +220,8 @@
         "title": "Unhatched",
         "total_awards_received": 0,
         "upvote_ratio": 0.91,
-        "url": "https://www.reddit.com/gallery/112mbxp"
+        "url": "https://www.reddit.com/gallery/112mbxp",
+        "classification": "article"
     },
     "a3zzgb": {
         "author_fullname": "t2_ax3ft",
@@ -240,7 +248,8 @@
         "title": "Embrace of the Granfalloon",
         "total_awards_received": 0,
         "upvote_ratio": 0.88,
-        "url": "https://i.redd.it/f0bc8z7f0v221.jpg"
+        "url": "https://i.redd.it/f0bc8z7f0v221.jpg",
+        "classification": "image"
     },
     "ul18zd": {
         "author_fullname": "t2_odjo7",
@@ -267,6 +276,7 @@
         "title": "Do it for them",
         "total_awards_received": 0,
         "upvote_ratio": 0.95,
-        "url": "https://i.redd.it/yatfyzw639y81.png"
+        "url": "https://i.redd.it/yatfyzw639y81.png",
+        "classification": "image"
     }
 }
